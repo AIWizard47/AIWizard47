@@ -14,7 +14,7 @@
 
 💬 Ask me about Python, JavaScript, Web Frameworks, or competitive programming strategies!
 
-📫 How to reach me: youremail@example.com (Please replace with your actual email)
+📫 How to reach me: sam@gmail.com
 
 ⚡ Fun fact: I believe every bug is just a feature waiting to be discovered... and fixed!
 

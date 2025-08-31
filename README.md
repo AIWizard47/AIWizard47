@@ -80,7 +80,7 @@
   
 ---
 
-### 💡 [Code (DSA Platform)](https://github.com/sambhavvinayak/dsa-platform)
+### 💡 [Code (DSA Platform)](https://github.com/AIWizard47/Code)
 > **Full-Stack Competitive Programming Platform**
 
 **Tech Stack:** `Django` `Python` `HTML/CSS` `SQLite`

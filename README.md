@@ -8,14 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=sambhavvinayak&label=Profile%20views&color=0e75b6&style=flat" alt="sambhavvinayak" />
 </p>
 
-## 🚀 About Me
-
-- 🎓 **B.Tech CSE** from IES University (CGPA: 8.51)
-- 🏆 **TCS CodeVita 2023** International Level Round 1 Winner
-- 🥇 **SIH 2024 Finalist** - National Hackathon
-- 🤖 **AI & Web Development** Enthusiast
-- 🌱 Currently exploring **Advanced AI/ML** and **Cloud Technologies**
-
 ---
 
 ## 🛠️ Technical Skills
@@ -110,22 +102,6 @@
 - 🧪 **Real-time Code Execution** and test case validation
 - 🏆 **Dynamic Leaderboard** system
 - 📊 **Submission Tracking** and performance analytics
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-```text
-🎖️ SIH 2023 College Level Winner
-🎖️ SIH 2024 National Finalist
-🎖️ The War of Wings National Winner (Robotics)
-📜 NPTEL: Joy of Computing using Python
-🤝 ATVC Volunteering Certificate
-```
-
-</div>
 
 ---
 

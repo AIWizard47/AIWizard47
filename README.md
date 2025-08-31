@@ -77,19 +77,7 @@
 - 🤖 **AI-Powered Farming Suggestions** for crop selection and pest control
 - 📊 **Smart Analytics** for agricultural decision making
 
----
-
-### 🚦 [Smart Traffic Monitoring System](https://github.com/sambhavvinayak/traffic-monitor)
-> **AI-Powered Real-time Traffic Management** | 🏆 **SIH 2024 Finalist Project**
-
-**Tech Stack:** `Django` `OpenCV` `YOLO` `Python` `HTML/CSS`
-
-**Key Features:**
-- 🎯 **Real-time Vehicle Detection** using YOLO algorithm
-- 📱 **Live Traffic Updates** with user-friendly dashboard
-- 🗺️ **Area-specific Masking** for accurate traffic analysis
-- 📋 **Patent Documentation** submitted
-
+  
 ---
 
 ### 💡 [Code (DSA Platform)](https://github.com/sambhavvinayak/dsa-platform)
@@ -102,19 +90,6 @@
 - 🧪 **Real-time Code Execution** and test case validation
 - 🏆 **Dynamic Leaderboard** system
 - 📊 **Submission Tracking** and performance analytics
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sambhavvinayak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambhavvinayak&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sambhavvinayak&theme=tokyonight" alt="sambhavvinayak" />
-</div>
 
 ---
 

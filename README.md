@@ -67,7 +67,7 @@
 
 ## 💻 Featured Projects
 
-### 🌾 [AgroSage](https://github.com/sambhavvinayak/agrosage) 
+### 🌾 [AgroSage](https://github.com/AIWizard47/Agrosage) 
 > **Smart Agricultural E-commerce & Guidance Platform**
 
 **Tech Stack:** `Django` `Python` `HTML/CSS` `SQLite` `AI/ML`
